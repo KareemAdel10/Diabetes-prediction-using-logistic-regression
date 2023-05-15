@@ -1,1 +1,1 @@
-# Diabetes-prediction-using-logistic-regression
+# Diabetes-prediction-using-Logistic-Regression
